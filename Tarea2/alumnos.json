@@ -1,0 +1,26 @@
+[
+	{
+		"Nombre" : "Emiliano",
+		"Apellido" : "Velasquez",
+		"Carerra" : "Sistemas",
+		"Carne" : "201903848"
+	},
+	{
+		"Nombre" : "Alexandro",
+		"Apellido" : "Provenzale",
+		"Carrera" : "Industrial",
+		"Carne" : "201904012"
+	},
+	{
+		"Nombre" : "Gabriela",
+		"Apellido" : "Salazar",
+		"Carrera" : "Civil",
+		"Carne" : "201903849"
+	},
+	{
+		"Nombre" : "Paulo",
+		"Apellido" : "Tobias",
+		"Carrera" : "Mecanica",
+		"Carne" : "201907485"
+	}
+]

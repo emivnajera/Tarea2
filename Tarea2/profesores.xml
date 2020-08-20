@@ -1,0 +1,27 @@
+
+<profesores>
+	<profesor>
+		<nombre>Glenda Garcia</nombre>
+		<departamento>Matematica</departamento>
+		<curso>Matematica Basica 2</curso>
+		<carne>20200312</carne>
+	</profesor>
+	<profesor>
+		<nombre>Carlos Morales</nombre>
+		<departamento>Matematica</departamento>
+		<curso>Matematica Basica 2</curso>
+		<carne>20200313</carne>
+	</profesor>
+	<profesor>
+		<nombre>Byron Cuyan</nombre>
+		<departamento>Fisica</departamento>
+		<curso>Fisica 1</curso>
+		<carne>20200314</carne>
+	</profesor>
+	<profesor>
+		<nombre>Lady Elias</nombre>
+		<departamento>Estadistica</departamento>
+		<curso>Estadistica 1</curso>
+		<carne>20200315</carne>
+	</profesor>
+</profesores>
